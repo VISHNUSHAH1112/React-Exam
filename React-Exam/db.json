@@ -1,0 +1,164 @@
+{
+  "Shope": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "category": "Electronics",
+      "price": 50000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "category": "Electronics",
+      "price": 30000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": 3,
+      "title": "Tablet",
+      "category": "Electronics",
+      "price": 20000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1583225212585-07aa2c7b0c9d"
+    },
+    {
+      "id": 4,
+      "title": "Headphones",
+      "category": "Accessories",
+      "price": 3000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1580894894513-5413c5a9a9a2"
+    },
+    {
+      "id": 5,
+      "title": "Smartwatch",
+      "category": "Electronics",
+      "price": 7000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": 6,
+      "title": "Keyboard",
+      "category": "Accessories",
+      "price": 1500,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 7,
+      "title": "Mouse",
+      "category": "Accessories",
+      "price": 800,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1580894894513-5413c5a9a9a2"
+    },
+    {
+      "id": 8,
+      "title": "Monitor",
+      "category": "Electronics",
+      "price": 12000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1583225212585-07aa2c7b0c9d"
+    },
+    {
+      "id": 9,
+      "title": "Printer",
+      "category": "Electronics",
+      "price": 10000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 10,
+      "title": "Camera",
+      "category": "Electronics",
+      "price": 40000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcbaa"
+    },
+    {
+      "id": 11,
+      "title": "Speakers",
+      "category": "Accessories",
+      "price": 5000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1593642532400-2682810df593"
+    },
+    {
+      "id": 12,
+      "title": "External Hard Drive",
+      "category": "Electronics",
+      "price": 6000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1580894908360-7a9b6f8a2dbb"
+    },
+    {
+      "id": 13,
+      "title": "Power Bank",
+      "category": "Accessories",
+      "price": 2000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1612810807569-9b38d4f0b7ac"
+    },
+    {
+      "id": 14,
+      "title": "Router",
+      "category": "Electronics",
+      "price": 2500,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1592813630413-3c93ac7473b1"
+    },
+    {
+      "id": 15,
+      "title": "Projector",
+      "category": "Electronics",
+      "price": 35000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1614598649316-079b4baf9c26"
+    },
+    {
+      "id": 16,
+      "title": "Microphone",
+      "category": "Accessories",
+      "price": 4000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1612810807569-9b38d4f0b7ac"
+    },
+    {
+      "id": 17,
+      "title": "Webcam",
+      "category": "Accessories",
+      "price": 2500,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1612831455542-b7e74b6e21ab"
+    },
+    {
+      "id": 18,
+      "title": "VR Headset",
+      "category": "Electronics",
+      "price": 45000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1629384124179-4a2f6a6a0e9a"
+    },
+    {
+      "id": 19,
+      "title": "Game Console",
+      "category": "Electronics",
+      "price": 60000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1606813903291-21a77ec2a3f0"
+    },
+    {
+      "id": 20,
+      "title": "Drone",
+      "category": "Electronics",
+      "price": 80000,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    }
+  ]
+}
